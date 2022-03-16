@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeId"
+        android:title="Home"
+        android:icon="@drawable/ic_home_24"/>
+
+    <item
+        android:id="@+id/bookId"
+        android:title="Bookmark"
+        android:icon="@drawable/ic_archive_24"/>
+
+    <item
+        android:id="@+id/anchor"
+        android:title=""/>
+    <item
+        android:id="@+id/archiveId"
+        android:title="Archive"
+        android:icon="@drawable/ic_menu_book_24"/>
+    <item
+        android:id="@+id/searchId"
+        android:title="Search"
+        android:icon="@drawable/ic_search_24"/>
+
+</menu>
